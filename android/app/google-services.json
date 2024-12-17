@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525412824352",
+    "project_id": "mobprog-c692c",
+    "storage_bucket": "mobprog-c692c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525412824352:android:5319abae5745b13ec09345",
+        "android_client_info": {
+          "package_name": "com.example.iqurban"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJoKvDQW2qCQTjpESW4ErRHRdZT0t8eps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
